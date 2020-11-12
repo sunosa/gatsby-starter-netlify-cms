@@ -1,7 +1,7 @@
 ---
 templateKey: about-page
 path: /about
-title: Our values
+title: Boonoo's values
 ---
 ### Shade-grown coffee
 
